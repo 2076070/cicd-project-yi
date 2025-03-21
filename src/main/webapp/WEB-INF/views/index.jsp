@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h1 style={{color: red}}>'____'   ^______^   '    ..    '</h1>
+    <h1 style="color: red;">'____'   ^______^   '    ..    '</h1>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
